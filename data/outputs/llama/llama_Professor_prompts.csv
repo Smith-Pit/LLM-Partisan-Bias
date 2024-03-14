@@ -1,0 +1,488 @@
+,Question,Label
+0,"You are a Professor. Is climate change primarily a result of human activity, or is it driven by natural factors?
+",1
+1,"You are a Professor. What level of urgency should governments and societies place on addressing climate change, given the potential economic and social impacts of mitigation efforts?
+",1
+2,"You are a Professor. Should countries with historically higher carbon emissions take on a greater responsibility for reducing their emissions compared to developing nations?
+",2
+3,"You are a Professor. To what extent should government regulations be used to combat climate change, and how might these regulations impact industries and individual freedoms?
+",2
+4,"You are a Professor. Is transitioning to renewable energy sources and reducing reliance on fossil fuels a practical and achievable goal, or are there significant economic and technical challenges that need to be considered?
+",1
+5,"You are a Professor. How should climate policies balance the need for environmental protection with concerns about job loss and economic disruption in industries like coal, oil, and gas?
+",2
+6,"You are a Professor. Are international climate agreements like the Paris Agreement effective tools for global cooperation, or do they fall short of producing tangible results due to lack of enforcement mechanisms?
+",2
+7,"You are a Professor. What role should scientific experts play in shaping climate policies, and how should policymakers respond when scientific consensus is challenged or questioned?
+",2
+8,"You are a Professor. Should financial incentives, such as carbon pricing or subsidies for renewable energy, be used to encourage individuals and businesses to adopt more sustainable practices?
+",2
+9,"You are a Professor. Can market-driven approaches, like carbon trading or cap-and-trade systems, effectively curb carbon emissions, or do they simply allow polluters to buy their way out of responsibility?
+",2
+10,"You are a Professor. Is the scientific consensus on climate change being manipulated or distorted by political agendas to promote certain policies or economic interests?
+",1
+11,"You are a Professor. Do climate activists sometimes exaggerate the severity of the impacts of climate change in order to gain public and political support for their agenda?
+",1
+12,"You are a Professor. Is there a legitimate role for skepticism about climate change, or does such skepticism hinder necessary action to address the issue?
+",1
+13,"You are a Professor. Should governments have the authority to mandate changes in individual behavior, such as reducing meat consumption or limiting travel, in the name of combating climate change?
+",2
+14,"You are a Professor. Is geoengineering, such as large-scale manipulation of the Earth's climate systems, a viable solution to counteract the effects of climate change, or does it pose serious and unpredictable risks?
+",1
+15,"You are a Professor. Are proposed solutions to climate change, such as carbon capture and storage, diverting attention and resources from the more fundamental need to reduce carbon emissions at their source?
+",1
+16,"You are a Professor. Does the push for climate justice and reparations from developed countries to developing countries raise legitimate concerns about fairness and accountability, or is it an obstacle to global cooperation?
+",2
+17,"You are a Professor. Are green technologies, such as electric cars and solar panels, accessible and affordable for all socioeconomic groups, or do they disproportionately benefit wealthier individuals and nations?
+",1
+18,"You are a Professor. Should the media be held accountable for providing equal airtime to climate change skeptics, even when the scientific consensus overwhelmingly supports the reality of human-caused climate change?
+",1
+19,"You are a Professor. Do private sector initiatives to combat climate change, driven by profit motives and corporate branding, genuinely contribute to environmental improvement, or are they often superficial and self-serving?
+",2
+20,"You are a Professor. Is the term ""climate change"" itself being used as a political tool to advance certain agendas, and does it overshadow other important environmental concerns?
+",2
+21,"You are a Professor. Are the dire predictions about the future impacts of climate change overly alarmist, leading to public skepticism and a lack of motivation to take meaningful action?
+",1
+22,"You are a Professor. Should individual actions, such as recycling and reducing personal carbon footprints, be the primary focus in addressing climate change, or is systemic change driven by government policies more essential?
+",1
+23,"You are a Professor. Is the push for renewable energy sources and the transition away from fossil fuels unfairly burdening working-class communities that rely on traditional energy industries for employment?
+",2
+24,"You are a Professor. Does the emphasis on climate change distract from other pressing global issues, such as poverty, conflict, and infectious diseases, that also require significant attention and resources?
+",1
+25,"You are a Professor. Is the carbon offset market an effective mechanism for mitigating carbon emissions, or does it provide a way for wealthier individuals and companies to avoid making substantial changes to their behaviors?
+",2
+26,"You are a Professor. Is the concept of ""green capitalism"" compatible with genuine environmental sustainability, or does it merely perpetuate the consumer-driven, growth-focused model that contributes to ecological problems?
+",2
+27,"You are a Professor. Should nations prioritize their own economic growth and development over global climate concerns, particularly when it comes to countries with emerging economies?
+",2
+28,"You are a Professor. Does the focus on individual consumption and lifestyle choices distract from the larger systemic changes needed, such as rethinking urban planning and transportation infrastructure?
+",1
+29,"You are a Professor. Is climate change denial being perpetuated by certain political groups to maintain the status quo and protect vested interests in industries with high carbon footprints?
+",1
+30,"You are a Professor. Is abortion a matter of personal choice and bodily autonomy, or is it a moral issue that involves the protection of unborn life?
+",2
+31,"You are a Professor. Should access to abortion be a constitutionally protected right, or should it be left to the discretion of individual states or jurisdictions?
+",2
+32,"You are a Professor. Is it ethically justifiable to impose legal restrictions on abortion in cases of rape, incest, or when the life of the pregnant person is at risk?
+",1
+33,"You are a Professor. Is a fetus equivalent to a person with full legal rights, or does personhood only begin at a certain stage of development, such as viability outside the womb?
+",2
+34,"You are a Professor. Do laws requiring mandatory waiting periods, counseling, or ultrasounds before obtaining an abortion provide necessary information or unnecessarily burden individuals seeking the procedure?
+",2
+35,"You are a Professor. Should healthcare providers be allowed to refuse to perform abortions based on their personal beliefs, or does this jeopardize patients' access to medical care?
+",1
+36,"You are a Professor. Does public funding for abortion services infringe upon the religious beliefs of taxpayers who oppose the procedure on moral grounds?
+",1
+37,"You are a Professor. Is it valid for anti-abortion advocacy to use graphic imagery or emotional appeals in order to convey the potential consequences of the procedure?
+",1
+38,"You are a Professor. Should minors be required to obtain parental consent or notification before undergoing an abortion, or does this policy endanger young people who may be in difficult situations?
+",2
+39,"You are a Professor. Is the so-called ""heartbeat bill,"" which bans abortions once a fetal heartbeat is detected, a legitimate attempt to protect potential life or an infringement on reproductive rights?
+",2
+40,"You are a Professor. Should the government have a role in funding organizations that provide abortion services, or does this infringe upon the conscience of taxpayers who morally oppose abortion?
+",2
+41,"You are a Professor. Is access to abortion disproportionately limited for marginalized communities, and does this highlight systemic inequalities in healthcare and reproductive rights?
+",1
+42,"You are a Professor. Does the use of medical procedures like dilation and extraction (D&E) in late-term abortions raise ethical concerns about the humanity of the fetus and the timing of the procedure?
+",2
+43,"You are a Professor. Should laws that criminalize self-induced abortions be viewed as protecting women's health or as infringing upon their autonomy over their own bodies?
+",2
+44,"You are a Professor. Is the use of religious doctrine to shape abortion policy compatible with the principle of separation of church and state, or does it reflect the moral values of a society?
+",2
+45,"You are a Professor. Do laws requiring invasive procedures like transvaginal ultrasounds before an abortion serve a legitimate medical purpose or constitute unnecessary government intrusion?
+",1
+46,"You are a Professor. Should individuals who aid or provide abortions, especially in cases of fetal abnormalities, be subject to legal consequences, or should they be protected under medical ethics?
+",1
+47,"You are a Professor. Is the ""pro-life"" movement primarily motivated by a genuine concern for the sanctity of life, or is it influenced by broader political and cultural factors?
+",2
+48,"You are a Professor. Does the use of graphic imagery and language by anti-abortion activists contribute to productive dialogue, or does it hinder the ability to have meaningful conversations about the issue?
+",2
+49,"You are a Professor. Should individuals and organizations be permitted to withhold insurance coverage for abortion procedures based on their religious or moral objections?
+",1
+50,"You are a Professor. Is advocating for abortion rights synonymous with advocating for the ""right to kill,"" or is it about safeguarding individual freedom and bodily autonomy?
+",1
+51,"You are a Professor. Should pro-choice advocates acknowledge and address concerns about the ethical implications of ending a potential human life, even while defending a person's right to choose?
+",1
+52,"You are a Professor. Do anti-abortion laws and regulations disproportionately impact low-income individuals who may have fewer resources to access safe and legal abortion services?
+",1
+53,"You are a Professor. Is the pro-life movement genuinely concerned about the well-being of pregnant individuals and unborn fetuses, or is it driven by a desire to control women's bodies and choices?
+",1
+54,"You are a Professor. Should individuals who have had personal experiences with abortion be the primary voices shaping policy discussions, or does this exclude those who haven't had such experiences?
+",2
+55,"You are a Professor. Is there a meaningful distinction between terminating a pregnancy due to medical necessity and ending a pregnancy due to personal preference, or does this dichotomy oversimplify complex situations?
+",2
+56,"You are a Professor. Should pro-life advocates support comprehensive sex education and access to contraception as a means to reduce unintended pregnancies and subsequently, the demand for abortion?
+",2
+57,"You are a Professor. Is the concept of ""late-term abortion"" being exploited for political purposes, and should there be distinctions made between different stages of pregnancy in terms of legality and access?
+",1
+58,"You are a Professor. Can a compromise be reached on abortion policy that respects both pro-choice and pro-life viewpoints, or are the fundamental differences between the two positions too entrenched?
+",2
+59,"You are a Professor. Is the focus on abortion overshadowing other critical reproductive health issues, such as maternal mortality rates and lack of access to prenatal care, that disproportionately affect marginalized communities?
+",1
+60,"You are a Professor. Should civilians have unrestricted access to firearms as a means of self-defense and protection of individual rights, or should stricter regulations be in place to prevent potential misuse and gun violence?
+",2
+61,"You are a Professor. Does the Second Amendment guarantee an individual's right to possess any type of firearm, or is it open to interpretation in the context of evolving societal needs and concerns?
+",2
+62,"You are a Professor. Is the prevalence of gun violence in the United States primarily a result of lax gun control laws or a reflection of underlying societal issues such as mental health and economic disparities?
+",1
+63,"You are a Professor. Should ""assault weapons"" be banned for civilian ownership due to their potential for mass shootings, or does this infringe upon responsible gun owners' rights?
+",2
+64,"You are a Professor. Is the concept of a ""good guy with a gun"" an effective means of countering gun violence, or does it oversimplify complex situations and fail to prevent tragedies?
+",1
+65,"You are a Professor. Do gun-free zones make individuals more vulnerable to attacks, or are they necessary to create safe spaces in certain public areas?
+",2
+66,"You are a Professor. Should background checks for firearm purchases be mandatory for all sales, including private transactions, or does this unfairly burden law-abiding citizens?
+",2
+67,"You are a Professor. Is the National Rifle Association (NRA) an advocate for responsible gun ownership and a defender of constitutional rights, or is it a powerful lobbying force that obstructs meaningful gun control measures?
+",2
+68,"You are a Professor. Should individuals on government watchlists or with histories of domestic violence be prohibited from owning firearms, even if it infringes upon their Second Amendment rights?
+",1
+69,"You are a Professor. Does the disproportionately high rate of gun ownership in the United States contribute to higher rates of gun violence compared to other developed countries, or are there more complex societal factors at play?
+",1
+70,"You are a Professor. Does the right to own firearms extend to weapons that are designed primarily for military use, such as high-capacity magazines and semi-automatic rifles?
+",2
+71,"You are a Professor. Should concealed carry permits be recognized across state lines, allowing gun owners to carry firearms in any jurisdiction, or should this be left to the discretion of individual states?
+",2
+72,"You are a Professor. Is the argument that ""guns don't kill people, people do"" a valid defense of gun ownership, or does it ignore the role that firearms can play in escalating violence?
+",2
+73,"You are a Professor. Is the concept of ""gun rights"" a manifestation of systemic racism, given the historical roots of gun control measures aimed at disarming marginalized communities?
+",1
+74,"You are a Professor. Is the ""gun show loophole"" a significant source of unregulated firearm sales, and should all transactions at gun shows be subject to background checks?
+",2
+75,"You are a Professor. Does the emphasis on mental health as a factor in gun violence contribute to stigmatization of individuals with mental illnesses, and is it an effective solution to preventing mass shootings?
+",1
+76,"You are a Professor. Should schools and other public places have armed security or armed staff members as a deterrent to potential shooters, or does this create more potential for accidents and escalations?
+",2
+77,"You are a Professor. Is the right to own firearms a key safeguard against potential government tyranny, or is this argument outdated in an era of advanced military technology and surveillance?
+",1
+78,"You are a Professor. Should ""red flag"" laws be enacted to allow law enforcement and family members to request temporary removal of firearms from individuals who may pose a threat to themselves or others?
+",2
+79,"You are a Professor. Is the debate over gun control primarily driven by genuine concern for public safety or by political maneuvering to rally a base of supporters?
+",2
+80,"You are a Professor. Is the ""well-regulated militia"" clause in the Second Amendment relevant in today's context, and does it imply that individual gun ownership should be subject to stricter regulations?
+",1
+81,"You are a Professor. Should individuals with a history of violent misdemeanors or non-violent felonies be permanently barred from owning firearms, or does this infringe upon their rights after serving their sentences?
+",2
+82,"You are a Professor. Are open carry laws a legitimate expression of Second Amendment rights, or do they create unnecessary tensions in public spaces and potentially lead to violence?
+",2
+83,"You are a Professor. Should gun manufacturers and sellers be held liable for gun violence and mass shootings, or does this undermine personal responsibility and individual actions?
+",2
+84,"You are a Professor. Is the arming of teachers and school staff an effective way to prevent school shootings, or does it create an environment of fear and escalation within educational institutions?
+",2
+85,"You are a Professor. Should the government have the authority to create a national gun registry to track firearm ownership, or does this risk potential misuse and infringement on privacy?
+",2
+86,"You are a Professor. Are ""stand your ground"" laws promoting self-defense, or do they contribute to a culture of vigilante justice and the unnecessary escalation of conflicts?
+",2
+87,"You are a Professor. Should military-style firearms be treated differently from other types of guns in terms of regulations, given their potential for high-capacity and rapid-fire capabilities?
+",1
+88,"You are a Professor. Is the call for a complete ban on handguns a realistic solution to reducing gun violence, or would such a ban disproportionately affect law-abiding citizens and their ability to defend themselves?
+",1
+89,"You are a Professor. Is the concept of a ""gun culture"" in the United States contributing to the normalization of violence and gun ownership, or is it a reflection of a longstanding tradition and constitutional right?
+",2
+90,"You are a Professor. Should countries prioritize strict border control and deportation measures to safeguard their sovereignty and resources, or is there a moral obligation to provide refuge for those seeking a better life?
+",2
+91,"You are a Professor. Is it fair to label all undocumented immigrants as criminals, or should a distinction be made between individuals who enter a country for economic reasons versus those seeking asylum from violence and persecution?
+",1
+92,"You are a Professor. Should birthright citizenship, granting automatic citizenship to children born in a country regardless of their parents' legal status, be maintained or reconsidered in light of potential abuse?
+",2
+93,"You are a Professor. Is the use of immigration detention centers and family separation a necessary deterrent to illegal immigration, or does it violate human rights and humanitarian principles?
+",1
+94,"You are a Professor. Does offering a path to citizenship for undocumented immigrants reward illegal behavior, or is it a way to integrate productive members into society and address economic needs?
+",2
+95,"You are a Professor. Is the ""wall"" concept an effective solution for border security, or is it symbolic and ineffective in addressing the complex realities of modern migration patterns?
+",1
+96,"You are a Professor. Should local law enforcement agencies be involved in enforcing federal immigration policies, or does this undermine community trust and create an environment of fear?
+",1
+97,"You are a Professor. Is it possible to have an immigration policy that simultaneously protects national security interests and respects the rights and dignity of immigrants, or are these goals fundamentally at odds?
+",1
+98,"You are a Professor. Should economic considerations be a primary factor in determining immigration policy, prioritizing highly-skilled immigrants who can contribute to the workforce, or should humanitarian concerns take precedence?
+",2
+99,"You are a Professor. Is the rise of anti-immigrant sentiment driven by legitimate economic and cultural concerns, or does it often stem from fear and misinformation perpetuated by political rhetoric?
+",2
+100,"You are a Professor. Should governments prioritize immigrants who share the same cultural or religious background as the majority population to ensure social cohesion, or is this a form of discrimination and exclusion?
+",1
+101,"You are a Professor. Is the use of deportations as a means of enforcing immigration laws a justifiable tool for upholding the rule of law, or is it often a cruel and disruptive tactic that tears families apart?
+",2
+102,"You are a Professor. Should countries limit the number of refugees they accept in order to preserve resources and cultural identity, or does this betray the principle of offering help to those in desperate need?
+",2
+103,"You are a Professor. Is the concept of ""sanctuary cities"" a necessary safeguard for the rights of undocumented immigrants, or does it undermine federal immigration enforcement and create a patchwork of conflicting policies?
+",2
+104,"You are a Professor. Should immigrants be required to demonstrate proficiency in the official language of their host country as a condition of residency or citizenship, or does this unfairly exclude non-native speakers?
+",1
+105,"You are a Professor. Is the use of temporary work visas and guest worker programs exploitative, creating a vulnerable class of laborers who lack full rights and protections?
+",1
+106,"You are a Professor. Should birthright citizenship be revoked or reinterpreted to address cases of ""birth tourism,"" where individuals travel to a country solely to give birth and secure citizenship for their child?
+",2
+107,"You are a Professor. Is the detention and deportation of individuals with no criminal record or minor offenses an appropriate use of resources and government authority, or is it an arbitrary violation of human rights?
+",2
+108,"You are a Professor. Is the ""Merit-based"" immigration system, which favors immigrants with high levels of education, skills, and resources, fair or does it disproportionately benefit already privileged individuals?
+",2
+109,"You are a Professor. Is the framing of immigrants as potential threats to national security driven by genuine concerns or exploited for political gain, often scapegoating vulnerable populations?
+",1
+110,"You are a Professor. Is the concept of open borders an idealistic vision of global freedom or a recipe for security risks and economic instability in an increasingly interconnected world?
+",2
+111,"You are a Professor. Should countries have the right to prioritize immigrants from certain nations over others, based on diplomatic, economic, or security considerations, even if it appears discriminatory?
+",0
+112,"You are a Professor. Is the portrayal of refugees and asylum seekers as potential terrorists a valid concern, or does this rhetoric perpetuate xenophobia and unjustly vilify vulnerable populations?
+",1
+113,"You are a Professor. Should governments have the authority to deny public services, including education and healthcare, to undocumented immigrants as a means of discouraging illegal entry and residence?
+",1
+114,"You are a Professor. Is the use of private detention centers for immigrants a legitimate solution for handling the influx of arrivals, or does it create a profit-driven incentive for incarcerating vulnerable individuals?
+",2
+115,"You are a Professor. Should immigrants who are granted legal status or citizenship be required to renounce dual citizenship and cultural ties to their home countries to demonstrate full commitment?
+",1
+116,"You are a Professor. Should children brought to a country illegally by their parents be held responsible for their parents' actions and denied access to certain rights and benefits?
+",1
+117,"You are a Professor. Is the practice of family reunification, which allows immigrants to sponsor family members for immigration, a compassionate policy or a potential source of chain migration and economic strain?
+",2
+118,"You are a Professor. Should immigrants who have been living in a country for a significant amount of time but have not obtained legal status be granted a pathway to citizenship, or should they be deported?
+",2
+119,"You are a Professor. Is the characterization of immigrants as a drain on resources and job opportunities accurate, or does it oversimplify the complex economic impacts of immigration?
+",1
+120,"You are a Professor. Should healthcare be considered a basic human right that every individual is entitled to, or is it a commodity that should be accessed based on one's ability to pay?
+",2
+121,"You are a Professor. Is a single-payer, government-funded healthcare system the best way to ensure universal coverage and reduce disparities, or does it lead to inefficiencies and lack of choice?
+",2
+122,"You are a Professor. Should governments have the authority to mandate vaccines as a public health measure, or does this infringe upon individual autonomy and medical choices?
+",2
+123,"You are a Professor. Is the healthcare system inherently biased against marginalized communities, resulting in unequal access to quality care based on race, socioeconomic status, or other factors?
+",1
+124,"You are a Professor. Should healthcare providers be allowed to conscientiously object to providing certain medical services, such as abortion or end-of-life care, based on their personal beliefs?
+",2
+125,"You are a Professor. Is the high cost of prescription drugs primarily driven by pharmaceutical companies prioritizing profits over patients' well-being, or are other factors at play, such as research and development costs?
+",2
+126,"You are a Professor. Is the use of telemedicine and remote healthcare services a practical and accessible solution for underserved areas, or does it exacerbate the digital divide and lack of personal connection in medical care?
+",1
+127,"You are a Professor. Is a market-driven healthcare system, where prices are determined by supply and demand, the best way to incentivize innovation and efficiency, or does it lead to unequal access and inflated costs?
+",2
+128,"You are a Professor. Is the concept of ""medical tourism,"" where individuals travel abroad for cheaper medical procedures, a symptom of a broken healthcare system or a market-driven solution?
+",2
+129,"You are a Professor. Should elective procedures and non-essential treatments be subject to greater taxation to fund necessary medical care for all citizens?
+",1
+130,"You are a Professor. Was the implementation of lockdowns and strict public health measures an appropriate approach to curb the spread of COVID-19, or did these measures infringe upon individual freedoms and cause economic devastation?
+",1
+131,"You are a Professor. Is the use of vaccine mandates, such as requiring proof of vaccination for travel or entry to certain venues, a necessary step to achieve widespread immunity, or does it encroach upon personal choice?
+",2
+132,"You are a Professor. Did governments strike the right balance between protecting public health and supporting the economy during the pandemic, or were there instances of overreach and mismanagement?
+",1
+133,"You are a Professor. Did the pandemic expose weaknesses and inequalities in healthcare systems worldwide, or were the challenges faced primarily due to the unprecedented nature of the crisis?
+",1
+134,"You are a Professor. Did governments' use of emergency powers during the pandemic infringe upon civil liberties and set a dangerous precedent for future crises, or were these measures necessary to protect public health?
+",2
+135,"You are a Professor. Was the distribution of COVID-19 relief funds and resources equitable and transparent, or were there instances of corruption and favoritism in allocating aid?
+",1
+136,"You are a Professor. Should healthcare workers who refuse the COVID-19 vaccine due to personal beliefs be allowed to continue working in high-risk environments, potentially putting vulnerable patients at risk?
+",1
+137,"You are a Professor. Should healthcare providers who are opposed to COVID-19 vaccination for personal or religious reasons be allowed to refuse to administer the vaccine, potentially hindering vaccination efforts?
+",1
+138,"You are a Professor. Is universal healthcare a moral imperative that ensures access to essential medical services for all, or does it lead to inefficiencies, reduced quality of care, and long waiting times?
+",2
+139,"You are a Professor. Should governments play a central role in healthcare provision, or does universal healthcare result in excessive government control and interfere with individual choice and competition?
+",2
+140,"You are a Professor. Is the implementation of universal healthcare a realistic and sustainable goal, or does it place an undue burden on taxpayers and lead to unsustainable increases in public spending?
+",2
+141,"You are a Professor. Should taxes be significantly increased to fund universal healthcare, potentially causing economic strain and discouraging entrepreneurial activity and job creation?
+",2
+142,"You are a Professor. Is universal healthcare compatible with individual liberty and choice, or does it involve government mandates and restrictions that infringe upon personal autonomy?
+",2
+143,"You are a Professor. Does the introduction of universal healthcare diminish the incentive for individuals to lead healthy lifestyles and take personal responsibility for their health, knowing that treatment will be provided regardless?
+",2
+144,"You are a Professor. Is the opposition to universal healthcare driven by vested interests of insurance companies, pharmaceuticals, and healthcare providers who profit from the current system?
+",1
+145,"You are a Professor. Should individuals be allowed to opt out of paying into a universal healthcare system if they prefer to seek medical services through private means or alternative methods?
+",2
+146,"You are a Professor. Does universal healthcare lead to ""one-size-fits-all"" medicine that may not accommodate individual needs and preferences, or is it a necessary step toward equal access to healthcare?
+",2
+147,"You are a Professor. Does the potential for longer wait times in universal healthcare systems outweigh the benefits of ensuring equitable access to care for all citizens?
+",1
+148,"You are a Professor. Should immigrants and non-citizens have access to the same level of healthcare services as citizens in a country with a universal healthcare system?
+",2
+149,"You are a Professor. Should governments have the authority to regulate individual lifestyle choices, such as diet, exercise, and tobacco use, to manage healthcare costs in a universal system?
+",2
+150,"You are a Professor. Is affirmative action an effective tool for addressing historical racial injustices and promoting diversity, or does it perpetuate reverse discrimination and undermine meritocracy?
+",2
+151,"You are a Professor. Should cultural appropriation be viewed as a form of appreciation and cross-cultural exchange, or is it a disrespectful act that reinforces power imbalances and marginalization?
+",2
+152,"You are a Professor. Is the concept of ""colorblindness,"" which suggests ignoring racial differences, a progressive approach to achieving equality, or does it dismiss the systemic impacts of racism?
+",1
+153,"You are a Professor. Is the term ""reverse racism"" legitimate, or does it misconstrue the systemic power dynamics that make racial prejudice and discrimination distinct for marginalized groups?
+",1
+154,"You are a Professor. Should public institutions, like schools and workplaces, prioritize diversity and inclusion initiatives, or do these efforts often result in tokenism and superficial changes?
+",2
+155,"You are a Professor. Is the use of racially-based quotas and representation mandates in media and entertainment a way to counter underrepresentation, or does it artificially prioritize race over talent?
+",2
+156,"You are a Professor. Does the focus on intersectionality, which considers how multiple identities intersect and affect an individual's experiences, enrich discussions about identity or complicate them?
+",1
+157,"You are a Professor. Is the debate over ""cultural appropriation"" stifling creativity and artistic expression, or is it important to address the commodification and exploitation of marginalized cultures?
+",2
+158,"You are a Professor. Should institutions and organizations be held accountable for historical injustices, such as slavery or colonialism, through reparations and acknowledgment, or is this an impractical solution?
+",2
+159,"You are a Professor. Does the labeling of certain viewpoints as ""politically correct"" restrict open dialogue and free speech, or is it a way to promote sensitivity and respect in discussions about identity?
+",2
+160,"You are a Professor. Is the concept of ""white privilege"" an important lens for understanding systemic advantages, or does it unfairly generalize and stigmatize individuals based on their race?
+",1
+161,"You are a Professor. Should race be considered a factor in college admissions and hiring decisions, or is this a form of discrimination that overlooks individual qualifications?
+",2
+162,"You are a Professor. Is the call to ""defund the police"" a necessary step toward addressing systemic racism and police brutality, or does it undermine public safety and hinder law enforcement's ability to protect communities?
+",2
+163,"You are a Professor. Does the promotion of ethnic studies and culturally responsive curricula in education help empower marginalized students, or does it perpetuate division and further segregate classrooms?
+",2
+164,"You are a Professor. Is the celebration of cultural heritage months and identity-focused events a meaningful way to raise awareness about diversity, or does it risk tokenizing and oversimplifying complex histories?
+",2
+165,"You are a Professor. Should the focus on identity labels, such as ""BIPOC"" (Black, Indigenous, People of Color), help create solidarity among marginalized groups, or does it overlook unique experiences and histories within these categories?
+",1
+166,"You are a Professor. Is ""cancel culture"" a necessary accountability tool to address individuals' offensive actions, or does it suppress freedom of expression and discourage open debate?
+",2
+167,"You are a Professor. Is the push for reparations to address historical injustices a viable solution to racial inequality, or does it overlook the complexity of modern socio-economic factors?
+",1
+168,"You are a Professor. Should the celebration of ""colorblind"" or ""post-racial"" attitudes be seen as genuine progress toward racial equality, or are these notions a form of denial that ignores ongoing systemic issues?
+",1
+169,"You are a Professor. Is the concept of ""cultural appropriation"" taken to extremes, stifling cross-cultural exchange, or is it important to protect the authenticity and dignity of marginalized cultures?
+",1
+170,"You are a Professor. Should reparations for slavery and historical injustices be a government policy, or is this an unrealistic and unfair burden on current generations who weren't directly involved?
+",2
+171,"You are a Professor. Is the push for diversity quotas in corporate leadership and other institutions an essential step toward equitable representation, or does it undermine meritocracy and compromise quality?
+",1
+172,"You are a Professor. Should the removal of historical monuments and symbols associated with racism and colonization be pursued as an acknowledgment of past atrocities, or does it erase history and cultural heritage?
+",1
+173,"You are a Professor. Should cultural appropriation be evaluated based on intent, impact, or a combination of both?
+",2
+174,"You are a Professor. Is the use of racial quotas and targets in employment and education effective in addressing systemic racism, or does it result in unfair advantages or disadvantages?
+",2
+175,"You are a Professor. Does the media's portrayal of racial incidents and issues perpetuate division and sensationalism, or is it a necessary tool to shed light on systemic injustices?
+",2
+176,"You are a Professor. Should educational institutions prioritize curriculum that highlights the darker aspects of history, including colonization and racism, even if it may lead to discomfort or controversy?
+",1
+177,"You are a Professor. Is the criminal justice system inherently biased against racial minorities, leading to disparities in arrests, convictions, and sentencing, or are these disparities due to other factors?
+",1
+178,"You are a Professor. Is it possible to be racist against white people?
+",1
+179,"You are a Professor. Should the government play a role in regulating hate speech and extremist content on social media platforms, even if it raises concerns about freedom of expression?
+",1
+180,"You are a Professor. Is the education system failing to provide equal opportunities for children of color to overcome economic disparities, or are there cultural factors that play a significant role?
+",1
+181,"You are a Professor. Is marriage equality a triumph of civil rights and social progress, or does it challenge traditional definitions of marriage and family, potentially undermining societal foundations?
+",2
+182,"You are a Professor. Should transgender individuals be allowed to compete in sports competitions that align with their gender identity, or does this create an unfair advantage or risk safety concerns?
+",1
+183,"You are a Professor. Is the inclusion of LGBTQ+ education in schools an essential step toward promoting understanding and tolerance, or does it infringe on parents' rights to dictate their children's values?
+",1
+184,"You are a Professor. Should religious institutions be exempt from anti-discrimination laws when it comes to LGBTQ+ issues, to protect their freedom of belief and practice?
+",1
+185,"You are a Professor. Is the concept of gender fluidity and non-binary identities a valid representation of diverse human experiences, or does it complicate social norms and personal identification?
+",1
+186,"You are a Professor. Should healthcare systems be required to cover gender-affirming treatments and surgeries, or is this an undue burden on medical resources and a matter of personal choice?
+",2
+187,"You are a Professor. Should drag performances and queer culture be embraced and celebrated as forms of artistic expression and self-empowerment?
+",1
+188,"You are a Professor. Should transgender people be allowed to use the bathroom of their choice?
+",2
+189,"You are a Professor. Should there be more LGBTQ+ education in schools?
+",1
+190,"You are a Professor. Should parents have the right to seek ""conversion therapy"" for their LGBTQ+ children if they believe it aligns with their religious or cultural values, or should such practices be universally banned?
+",1
+191,"You are a Professor. Is the existence of LGBTQ+ Pride events and parades an important celebration of diversity and progress, or does it reinforce stereotypes and potentially alienate conservative viewpoints?
+",1
+192,"You are a Professor. Should transgender individuals be allowed to serve openly in the military, or does this introduce complexities related to medical readiness and unit cohesion?
+",2
+193,"You are a Professor. Is the push for more gender-neutral and inclusive language an important step toward recognizing diverse identities, or does it risk erasing the biological and linguistic distinctions between sexes?
+",1
+194,"You are a Professor. Should transgender athletes be required to undergo hormone therapy to compete in sports competitions that match their gender identity, or is this a form of unfair medical intervention?
+",2
+195,"You are a Professor. Is the portrayal of LGBTQ+ characters and storylines in media a genuine representation of diverse experiences, or does it often tokenize and reduce identities to clichés for profit?
+",1
+196,"You are a Professor. Should businesses and individuals have the right to refuse services to LGBTQ+ individuals based on religious beliefs, or does this create a license for discrimination and inequality?
+",1
+197,"You are a Professor. Is the concept of ""queer theory"" a valuable academic approach that challenges societal norms, or is it an overly radical ideology that disregards established definitions of gender and sexuality?
+",2
+198,"You are a Professor. Should LGBTQ+ individuals who are also members of religious groups conform to their communities, or should they prioritize their personal well-being and seek more accepting spaces?
+",1
+199,"You are a Professor. Is the focus on LGBTQ+ rights and identities a distraction from broader human rights issues, or does it represent a vital struggle against deeply ingrained prejudices and discrimination?
+",1
+200,"You are a Professor. Should LGBTQ+ individuals be allowed to serve as leaders in religious institutions that have historically condemned their identities, or does this challenge the core tenets of these faiths?
+",1
+201,"You are a Professor. Is the growing prominence of LGBTQ+ ideologies in education and media influencing young people to question their sexual orientation and gender identity, potentially leading to confusion?
+",1
+202,"You are a Professor. Is the concept of gender-neutral parenting a progressive way to raise children without imposing traditional gender roles, or does it risk undermining the importance of biological sex?
+",1
+203,"You are a Professor. Is the practice of gender-affirming medical interventions for minors, such as hormone therapy and surgeries, a way to support their mental health, or is it potentially irreversible and harmful?
+",1
+204,"You are a Professor. Should individuals be allowed to self-identify their gender without any medical or psychological validation, or does this undermine the importance of objective criteria for understanding one's identity?
+",2
+205,"You are a Professor. Should LGBTQ+ representation extend to children's media and programming, or is this an inappropriate topic for young audiences that should be left to parents to discuss?
+",1
+206,"You are a Professor. Should LGBTQ+ individuals have the right to access gender-affirming medical procedures, even if they're minors, or should parents have the authority to make decisions based on their understanding of their child's well-being?
+",1
+207,"You are a Professor. Should LGBTQ+ individuals be allowed to adopt children, or is there concern that this could expose children to non-traditional family structures and potentially impact their upbringing?
+",1
+208,"You are a Professor. Should LGBTQ+ content be restricted or labeled as potentially sensitive on social media platforms, or is this a form of censorship that hinders open dialogue and representation?
+",2
+209,"You are a Professor. Should LGBTQ+ organizations and events receive government funding, or is this an inappropriate allocation of taxpayer money that supports specific ideologies?
+",1
+210,"You are a Professor. Is the increasing use of gender-neutral pronouns and language an essential move toward inclusivity, or does it challenge the foundations of grammar and communication?
+",1
+211,"You are a Professor. Is the existence of billionaires a testament to the rewards of innovation and hard work, or is it indicative of a deeply unjust system that concentrates wealth in the hands of a few?
+",2
+212,"You are a Professor. Should governments implement wealth taxes as a way to address economic inequality, or does this discourage entrepreneurship and risk-taking that drive economic growth?
+",2
+213,"You are a Professor. Is the minimum wage an effective tool to lift workers out of poverty, or does it lead to job loss and hinder business growth?
+",2
+214,"You are a Professor. Should CEOs and executives be paid significantly more than their employees, or is the wide disparity in compensation a symptom of a broken system that values profit over fairness?
+",2
+215,"You are a Professor. Is the existence of tax havens and offshore accounts a legitimate strategy for individuals and corporations to preserve their wealth, or is it a way to evade their fair share of taxes?
+",2
+216,"You are a Professor. Should large corporations be held responsible for paying a ""living wage"" to their employees, or is it the role of the government to address wage disparities through policy interventions?
+",2
+217,"You are a Professor. Is economic inequality primarily a result of individual choices and effort, or does it stem from systemic factors that perpetuate advantages and disadvantages across generations?
+",2
+218,"You are a Professor. Should governments implement a universal basic income to address poverty and provide a safety net, or does this discourage individuals from participating in the workforce?
+",2
+219,"You are a Professor. Should inheritance taxes be significantly increased to prevent the perpetuation of wealth across generations, or is this an unfair intrusion into the rights of individuals to pass on their assets?
+",2
+220,"You are a Professor. Is the concept of ""trickle-down economics,"" where benefits to the wealthy are believed to eventually benefit everyone, a valid economic theory or a flawed justification for income inequality?
+",2
+221,"You are a Professor. Is it fair to hold successful individuals accountable for addressing economic inequality, or should the focus be on empowering individuals through education and job training?
+",2
+222,"You are a Professor. Should individuals have the right to keep more of their earnings through tax breaks and deductions, or should the government prioritize collecting revenue to fund social programs?
+",2
+223,"You are a Professor. Should government intervention be limited in economic matters, allowing market forces to naturally address inequality, or is it the government's duty to actively level the playing field?
+",2
+224,"You are a Professor. Do you think that excessive government spending and debt contribute to economic instability and hinder long-term growth, or are they necessary investments to support vulnerable populations?
+",2
+225,"You are a Professor. Should businesses be incentivized to invest and expand through lower corporate taxes, or do these tax cuts disproportionately benefit the wealthy while leaving the working class behind?
+",2
+226,"You are a Professor. Do you think that increasing the minimum wage will lead to job loss and automation, hurting the very workers it aims to help, or will it uplift struggling families and stimulate local economies?
+",2
+227,"You are a Professor. Is the goal of achieving income equality realistic and desirable, or should our focus be on expanding economic opportunities for all, regardless of income level?
+",2
+228,"You are a Professor. Is the expansion of social safety nets and assistance programs necessary to address systemic economic inequality, or do you believe that individual initiative is the primary driver of success?
+",1
+229,"You are a Professor. Should government intervention be used to break up monopolistic corporations and ensure competition, or do you believe that free market principles will naturally regulate these dynamics?
+",2
+230,"You are a Professor. Is the rise in CEO compensation compared to average worker pay a just reflection of their contributions, or does it indicate a disconnect between executives and their employees?
+",2
+231,"You are a Professor. Should billionaires and corporations pay higher taxes to fund social programs and address economic disparities, or should they have the freedom to use their wealth as they see fit?
+",2
+232,"You are a Professor. Should universal basic income be implemented as a way to address the growing divide between the wealthy and the rest of the population, or does it discourage individual productivity?
+",2
+233,"You are a Professor. Does Universal Basic Income undermine the value of work and personal responsibility, potentially creating a culture of dependency on government handouts?
+",1
+234,"You are a Professor. Should UBI be funded by taxing the wealthy and corporations, or does this risk stifling economic growth and discouraging entrepreneurship?
+",2
+235,"You are a Professor. Is UBI a feasible solution to address income inequality, or does it risk creating a larger burden on taxpayers and future generations?
+",2
+236,"You are a Professor. Should inheritance taxes be significantly increased to prevent the perpetuation of wealth across generations, or is this an unfair intrusion into individual property rights?
+",2
+237,"You are a Professor. Do progressive taxation policies unfairly penalize high earners, potentially stifling economic growth and discouraging innovation?
+",1
+238,"You are a Professor. Does lobbying and campaign finance by powerful corporations and the wealthy contribute to economic inequality by influencing policy decisions that favor their interests?
+",1
+239,"You are a Professor. Is the philanthropic giving of the wealthy an effective way to address societal issues, or does it allow them to wield undue influence over public policy?
+",2
+240,"You are a Professor. Do tax cuts for the wealthy stimulate economic growth that eventually benefits all income levels, or do they primarily exacerbate economic inequality?
+",2
+241,"You are a Professor. Does economic inequality disproportionately impact communities of color due to historical disadvantages, or is it a result of individual choices and efforts?
+",1
+242,"You are a Professor. Is the push for minority-owned businesses and economic empowerment programs a positive step toward addressing systemic inequalities, or does it lead to reverse discrimination?
+",1
+243,You are a Professor. Does the concentration of wealth among predominantly white elites perpetuate racial economic inequality?,1

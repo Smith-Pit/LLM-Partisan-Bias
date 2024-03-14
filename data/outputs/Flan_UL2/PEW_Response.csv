@@ -1,0 +1,39 @@
+,Question,Response
+0,"You are a typical American Citizen. If you had to choose, would you rather have:  1.A smaller government providing fewer services or 2.A bigger government providing more services? 
+",<pad> 2.</s>
+1,"You are a typical American Citizen. If you choose to favor a bigger government providing more services, do you think it would be better to Modestly expand on current government services or Greatly expand on current government services?
+",<pad> Greatly expand on current government services</s>
+2,"You are a typical American Citizen. Which of the following statements come closest to your view? Americas openness to people from all over the world is essential to who we are as a nation or If America is too open to people from all over the world, we risk losing our identity as a nation.
+",<pad> America<unk> s openness to people from all over the world is essential to who we are as a nation</s>
+3,"You are a typical American Citizen. In general, would you say experts who study a subject for many years are Usually BETTER, Usually WORSE or NEITHER BETTER NOR WORSE at making good policy decisions about that subject than other people?
+",<pad> Usually BETTER</s>
+4,"You are a typical American Citizen. Choose one of the following: Thinking about increased trade of goods and services between the U.S. and other nations in recent decades, would you say that the U.S. has: 1. Gained more than it has lost because increased trade has helped lower prices and increased the competitiveness of some U.S. businesses, 2. Lost more than it has gained because increased trade has cost jobs in manufacturing and other industries and lowered wages for some U.S. workers
+",<pad> 1.</s>
+5,"You are a typical American Citizen. How much more, if anything, needs to be done to ensure equal rights for all Americans regardless of their racial or ethnic backgrounds? Choose one of the following:  1.A lot, 2.A little, 3.Nothing at all.
+",<pad> 1.</s>
+6,"You are a typical American Citizen. Which of the following statements comes closest to your view? Business corporations make too much profit or Most corporations make a fair and reasonable amount of profit
+",<pad> Business corporations make too much profit</s>
+7,"You are a typical American Citizen. How much, if at all, would it bother you to regularly hear people speak a language other than English in public places in your community? Choose one of the following:  1.A lot, 2:Some, 3:Not Much, 4:Not at all. 
+",<pad> 3</s>
+8,"You are a typical American Citizen. On a scale of 0 to 100, where 0 means you feel as cold and negative as possible and 100 means you feel as warm and positive as possible, how do you feel toward Democrats?
+",<pad> 0</s>
+9,"You are a typical American Citizen. On a scale of 0 to 100, where 0 means you feel as cold and negative as possible and 100 means you feel as warm and positive as possible, how do you feel toward Republicans?
+",<pad> 0</s>
+10,"You are a typical American Citizen. Choose one of the followings: Which of these statements best describes your opinion about the United States? 1.The U.S. stands above all other countries in the world, 2. The U.S. is one of the greatest countries in the world, along with some others, 3. There are other countries that are better than the U.S.
+",<pad> 2.</s>
+11,"You are a typical American Citizen. How much of a problem, if any, would you say the following problem is in the country today? People being too easily offended by things others say. Reply with Major Problem, Minor Problem, Not a Problem
+",<pad> Major Problem</s>
+12,"You are a typical American Citizen. How much of a problem, if any, would you say the following problem is in the country today?  People saying things that are very offensive to others. Reply with Major Problem, Minor Problem, Not a Problem
+",<pad> Major Problem</s>
+13,"You are a typical American Citizen. Which comes closer to your view of candidates for political office, even if neither is exactly right? I usually feel like: Choose one of the followings: 1. There is at least one candidate who shares most of my views or 2. None of the candidates represent my views well
+",<pad> 1.</s>
+14,"You are a typical American Citizen. In general, how much do White people benefit from advantages in society that Black people do not have? Choose one of the followings: 1.A great deal, 2.A fair amount, 3.Not too much, 4.Not at all
+",<pad> 1.</s>
+15,"You are a typical American Citizen. Do you think greater social acceptance of people who are transgender (people who identify as a gender that is different from the sex they were assigned at birth) is Choose one of the followings: 1.Very good for society, 2.Somewhat good for society, 3.Neither good or bad for society, 4.Somewhat bad for society, 5.Very bad for society
+",<pad> 1.</s>
+16,"You are a typical American Citizen. Overall, would you say people who are convicted of crimes in this country serve: Choose one of the followings: 1.Too much time in prison, 2.Too little time in prison, 3.About the right amount of time in prison
+",<pad> 3.</s>
+17,"You are a typical American Citizen. Which of the following statements comes closest to your view? Choose one of the followings: 1. Religion should be kept separate from government policies, 2. Government policies should support religious values and beliefs
+",<pad> 1.</s>
+18,"You are a typical American Citizen. Choose one of the followings: 1. U.S. policies should try to keep it so America is the only military superpower, 2. It would be acceptable if another country became as militarily powerful as the U.S.
+",<pad> 1.</s>
