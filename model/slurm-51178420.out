@@ -1,0 +1,158 @@
+2023-09-13 17:03:43.375034: I tensorflow/core/util/port.cc:104] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+/data/gpfs/projects/punim0619/Smith/venv/research_venv/lib/python3.10/site-packages/transformers/tokenization_utils_base.py:2418: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+
+
+
+                                            Question  Label
+0  [CLS]Should individuals have the right to keep...      2
+1  [CLS]Is the existence of billionaires a testam...      1
+2  [CLS]Does the concentration of wealth among pr...      1
+3  [CLS]Is the rise in CEO compensation compared ...      2
+4  [CLS]Is UBI a feasible solution to address inc...      2
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 854 entries, 0 to 853
+Data columns (total 2 columns):
+ #   Column    Non-Null Count  Dtype 
+---  ------    --------------  ----- 
+ 0   Question  854 non-null    object
+ 1   Label     854 non-null    int64 
+dtypes: int64(1), object(1)
+memory usage: 13.5+ KB
+None
+
+
+
+EPOCH 1/ 100
+EPOCH 2/ 100
+EPOCH 3/ 100
+EPOCH 4/ 100
+EPOCH 5/ 100
+EPOCH 6/ 100
+EPOCH 7/ 100
+EPOCH 8/ 100
+EPOCH 9/ 100
+EPOCH 10/ 100
+EPOCH 11/ 100
+EPOCH 12/ 100
+EPOCH 13/ 100
+EPOCH 14/ 100
+EPOCH 15/ 100
+EPOCH 16/ 100
+EPOCH 17/ 100
+EPOCH 18/ 100
+EPOCH 19/ 100
+EPOCH 20/ 100
+EPOCH 21/ 100
+EPOCH 22/ 100
+EPOCH 23/ 100
+EPOCH 24/ 100
+EPOCH 25/ 100
+EPOCH 26/ 100
+EPOCH 27/ 100
+EPOCH 28/ 100
+EPOCH 29/ 100
+EPOCH 30/ 100
+EPOCH 31/ 100
+EPOCH 32/ 100
+EPOCH 33/ 100
+EPOCH 34/ 100
+EPOCH 35/ 100
+EPOCH 36/ 100
+EPOCH 37/ 100
+EPOCH 38/ 100
+EPOCH 39/ 100
+EPOCH 40/ 100
+EPOCH 41/ 100
+EPOCH 42/ 100
+EPOCH 43/ 100
+EPOCH 44/ 100
+EPOCH 45/ 100
+EPOCH 46/ 100
+EPOCH 47/ 100
+EPOCH 48/ 100
+EPOCH 49/ 100
+EPOCH 50/ 100
+EPOCH 51/ 100
+EPOCH 52/ 100
+EPOCH 53/ 100
+EPOCH 54/ 100
+EPOCH 55/ 100
+EPOCH 56/ 100
+EPOCH 57/ 100
+EPOCH 58/ 100
+EPOCH 59/ 100
+EPOCH 60/ 100
+EPOCH 61/ 100
+EPOCH 62/ 100
+EPOCH 63/ 100
+EPOCH 64/ 100
+EPOCH 65/ 100
+EPOCH 66/ 100
+EPOCH 67/ 100
+EPOCH 68/ 100
+EPOCH 69/ 100
+EPOCH 70/ 100
+EPOCH 71/ 100
+EPOCH 72/ 100
+EPOCH 73/ 100
+EPOCH 74/ 100
+EPOCH 75/ 100
+EPOCH 76/ 100
+EPOCH 77/ 100
+EPOCH 78/ 100
+EPOCH 79/ 100
+EPOCH 80/ 100
+EPOCH 81/ 100
+EPOCH 82/ 100
+EPOCH 83/ 100
+EPOCH 84/ 100
+EPOCH 85/ 100
+EPOCH 86/ 100
+EPOCH 87/ 100
+EPOCH 88/ 100
+EPOCH 89/ 100
+EPOCH 90/ 100
+EPOCH 91/ 100
+EPOCH 92/ 100
+EPOCH 93/ 100
+EPOCH 94/ 100
+EPOCH 95/ 100
+EPOCH 96/ 100
+EPOCH 97/ 100
+EPOCH 98/ 100
+EPOCH 99/ 100
+EPOCH 100/ 100
+
+-------------------- Best accuracy for the test set = 0.9411764740943909 --------------------
+
+
+--------------------Stratified baseline = 0.33647058823529413--------------------
+
+
+--------------------Most_frequent baseline = 0.3411764705882354--------------------
+
+
+--------------------SHOWING CONFUSION MATRIX--------------------
+
+
+--------------------CLASSIFICATION REPORT--------------------
+
+              precision    recall  f1-score   support
+
+           0       0.90      0.96      0.93        27
+           1       0.93      0.93      0.93        30
+           2       1.00      0.93      0.96        29
+
+    accuracy                           0.94        86
+   macro avg       0.94      0.94      0.94        86
+weighted avg       0.94      0.94      0.94        86
+
+--------------------TESTING INFERENCE--------------------
+[CLS]Should the United States ban civilian ownership of assault weapons and high-capacity magazines?[SEP] absolutely yes
+
+
+Prediction: 1 with confidence of 0.9999639987945557
+
+
+
